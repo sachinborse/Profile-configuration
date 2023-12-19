@@ -1,0 +1,8 @@
+name: Sachin
+
+---
+spring:
+    profiles: A1
+
+server:
+  port: 9999
